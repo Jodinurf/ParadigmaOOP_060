@@ -7,5 +7,9 @@ using namespace std;
  public:
 	 string nama;
 
+	 orang(string pNama) :
+	 nama(pNama) {
+		 cout << "orang dibuat\n" << endl;
+	 }
 
  };
