@@ -22,4 +22,7 @@ using namespace std;
 
  class pelajar : public orang {
  public :
+	 string sekolah;
+
+
  };
