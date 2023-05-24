@@ -19,3 +19,6 @@ using namespace std;
 		 return a + b;
 	 }
  };
+
+ class pelajar : public orang {
+ };
