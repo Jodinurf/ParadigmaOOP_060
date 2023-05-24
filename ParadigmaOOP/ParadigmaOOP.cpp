@@ -21,4 +21,5 @@ using namespace std;
  };
 
  class pelajar : public orang {
+ public :
  };
