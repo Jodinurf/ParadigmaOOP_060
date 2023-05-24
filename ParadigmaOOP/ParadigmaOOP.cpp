@@ -34,4 +34,7 @@ using namespace std;
 		 cout << "Pelajar dihapus\n" << endl;
 	 }
 
+	 string perkenalan() {
+		 return "Hallo, Nama saya " + nama + " dari sekolah " + sekolah + "\n\n";
+	 }
  };
