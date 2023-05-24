@@ -31,6 +31,7 @@ public:
 		cout << "Dokter \"" << nama << "\"Tidak Ada\n";
 	}
 
-
+	void tambahPasien(pasien*);
+	void cetakPasien();
 };
 
